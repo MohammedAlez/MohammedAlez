@@ -1,8 +1,12 @@
 # Hi, I'm Alez 👋
 
-A software engineer.
+🚀 Software Engineer focused on building modern web and mobile applications.
 
-I build modern web and mobile applications using React, React Native, Expo, TypeScript, and Next.js.
+I specialize in developing fast, scalable, and user-friendly applications using **React, React Native, Expo, TypeScript, and Next.js**.
+
+My interests extend beyond frontend development into **AI, Deep Learning, and intelligent software systems**, where I enjoy exploring practical applications of machine learning.
+
+I believe in writing clean, maintainable code, continuously learning new technologies, and building products that create real value for users.
 
 ## 💻 Tech Stack
 
