@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mohammed 👋
 
-<!--
-**MohammedAlez/MohammedAlez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend & React Native Developer from Algeria.
 
-Here are some ideas to get you started:
+I build modern web and mobile applications using React, React Native, Expo, TypeScript, and Next.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- React
+- React Native
+- Expo
+- TypeScript
+- Next.js
+- Tailwind CSS
+- Node.js
+- Prisma
+- PostgreSQL
+
+## Current Focus
+- Building mobile apps with React Native
+- Learning native performance optimization
+- AI-powered applications
+
+## Featured Projects
+- 🍔 Food Delivery App
+- 🤖 AI Messaging Platform
+- 🛒 Ecommerce Platform
+- 💬 Chat Application
+
+## Let's Connect
+LinkedIn:
+Portfolio:
+Email:
