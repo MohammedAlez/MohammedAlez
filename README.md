@@ -1,6 +1,6 @@
-# Hi, I'm Mohammed 👋
+# Hi, I'm Alez 👋
 
-Frontend & React Native Developer from Algeria.
+A software engineer.
 
 I build modern web and mobile applications using React, React Native, Expo, TypeScript, and Next.js.
 
